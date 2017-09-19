@@ -1,0 +1,15 @@
+{
+  "name": "simple-react-babel-app",
+  "version": "1.0.0",
+  "description": "This is the Simple application to demonstrate the use of babelJS and ReactJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "babel"
+  ],
+  "author": "Mohammad Azharuddin",
+  "license": "ISC"
+}
